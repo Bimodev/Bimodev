@@ -31,15 +31,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bimodev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bimodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bimodev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">Esse são alguns links do meu perfil, espero que se interesse, ou ache o que veio procurar.</h3>
-
-###
+<br clear="both">
 
 <img align="right" height="160" src="https://i.pinimg.com/originals/95/14/1b/95141bb6a60e66d01623ecb2bb6a22a1.gif"  />
 
@@ -49,14 +47,24 @@
   <a href="https://www.youtube.com/@birelomo7499" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="135" height="35" alt="youtube logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="135" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="135" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/gp_bimo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="135" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#search/clelopesdasilva%40gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="135" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/gabriel-lopes-267481279/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="135" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+<h3 align="center">Esse são alguns links do meu perfil, espero que se interesse, ou ache o que veio procurar.</h3>
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Bimodev/Bimodev/output/snake.svg" alt="Snake animation" />
 
