@@ -1,4 +1,4 @@
-<h2 align="left">😊Olá eu sou o Bimo, tenho 17 anos, esses são alguns projetos que eu ando fazendo.</h2>
+<h2 align="left">Olá eu sou o Bimo, tenho 18 anos, esses são alguns projetos que eu ando fazendo.</h2>
 
 ###
 
